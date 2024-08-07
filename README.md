@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @quynhanh010106
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-quynhanh010106/quynhanh010106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nguyen Quynh Anh
+- 👀 I’m interested in engineering and business 
+- 🌱 I’m currently learning Mechanical Engineer
+- 💞️ I’m looking to collaborate on Engineering Projects 
+- 📫 My LinkedIn account: https://www.linkedin.com/in/anh-nguyenquynh/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a personal website to showcase my blogs and projects: https://mindfullearningwithqa.lovestoblog.com/
